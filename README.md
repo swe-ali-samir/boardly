@@ -83,7 +83,7 @@ Boardly delivers on all these requirements with a modern, intuitive interface an
    Configure your `.env.local`:
 
    ```env
-   NEXT_PUBLIC_APP_URL=
+   NEXT_APP_URL=
    NEXT_PUBLIC_APPWRITE_ENDPOINT=
    NEXT_PUBLIC_APPWRITE_PROJECT=
    NEXT_PUBLIC_APPWRITE_DATABASE_ID=

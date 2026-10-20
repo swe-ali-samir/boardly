@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     telephone: false,
   },
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_APP_URL || "http://localhost:4200"
+    process.env.NEXT_APP_URL || "http://localhost:4200"
   ),
   alternates: {
     canonical: "/",
